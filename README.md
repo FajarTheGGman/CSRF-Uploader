@@ -1,4 +1,4 @@
-# ShellUploader
+# CSRF-Uploader
 #Just a simple program to upload shell backdoor to vulnrability website 
 
 ![alt text](https://github.com/FajarTheGGman/ShellUploader/blob/master/.img/u.PNG)
