@@ -13,12 +13,12 @@ const q = r.createInterface({
     output : process.stdout
 });
 
-console.log(c.rainbow("\n[ Shell Uploader ] By Fajar Firdaus\n"))
+console.log(c.rainbow("\n[ Csrf Uploader ] By Fajar Firdaus\n"))
 
 console.log(c.red("\n[!] Report bug to my social media\n"))
 
 var user = c.rainbow("[ Input URL ] > ");
-var sh = c.rainbow("\n[ Input Shell ] > ");
+var sh = c.rainbow("\n[ Input File ] > ");
 
 q.question(user, (u) => {
 q.question(sh, (n) => {
