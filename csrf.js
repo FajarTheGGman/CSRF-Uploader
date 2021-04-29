@@ -1,4 +1,3 @@
-// Please don't recode my program because a take a long time to create this project
 // Copyright© 2019 By Fajar Firdaus
 var req = require("request");
 var c = require("colors");
